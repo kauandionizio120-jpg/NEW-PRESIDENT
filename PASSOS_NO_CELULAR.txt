@@ -1,0 +1,20 @@
+PASSOS RÁPIDOS PARA GERAR O APK
+
+1. Crie uma conta no GitHub, caso ainda não tenha.
+2. Crie um repositório NOVO.
+3. Extraia este ZIP.
+4. Envie TODOS os arquivos e pastas para a raiz do repositório,
+   incluindo a pasta oculta .github.
+5. Abra a aba Actions do repositório.
+6. Abra "Build Android APK".
+7. Toque em "Run workflow" > "Run workflow".
+8. Aguarde o build terminar com o símbolo verde.
+9. Abra a execução concluída.
+10. Em Artifacts, baixe "White-House-World-Crisis-Beta-0.7-APK".
+11. Extraia o arquivo baixado e instale app-debug.apk no Android.
+
+Se o Android bloquear:
+Configurações > permitir instalação de apps desconhecidos para o navegador
+ou gerenciador de arquivos que você estiver usando.
+
+NÃO é necessário Android Studio para este método.
